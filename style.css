@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* .piano{
+  display: grid;
+  grid-template-rows: 60% 40%;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+#c{
+  grid-column-start: 1;
+  grid-column-end: 2;
+  background-color: white;
+} */
